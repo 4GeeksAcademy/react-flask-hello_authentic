@@ -5,3 +5,25 @@
     one more css for each page that will contain the selected used 
     on that page only (the ones not reused in other pages).
 */
+/* ../../styles/home.css */
+
+.input-field {
+    width: 50%; /* Ajusta el ancho según prefieras */
+    margin: 0 auto; /* Centra el campo de entrada horizontalmente */
+    display: block; /* Hace que el elemento de entrada funcione con margin auto */
+}
+
+.btn-center {
+    display: block;
+    margin: 0 auto;
+}
+.button-group {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Añade espacio entre los botones */
+    margin: 20px 0; /* Añade un poco de margen alrededor del grupo de botones */
+}
+
+
+
+
